@@ -1,0 +1,3 @@
+probes:
+  LU_2022_8888:
+    target_override: stm32f103c8
